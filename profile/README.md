@@ -79,36 +79,6 @@ Systems that preserve the path from **observation → inference → decision →
 
 </div>
 
-<br>
-
-## Principles
-
-### Autonomy over central control
-
-Participants should preserve local agency wherever global control is unnecessary.
-
-### Coordination over command
-
-Coherence can emerge through protocols, shared context, and explicit contracts rather than permanent authority.
-
-### Context over fixed hierarchy
-
-Roles and influence should follow the problem being solved, not an immutable organizational chart.
-
-### Memory over statelessness
-
-Intelligence compounds when experience can be retained, inspected, and reused.
-
-### Evidence over assumption
-
-Decisions should remain connected to the observations and reasoning that produced them.
-
-### Composition over monoliths
-
-A larger intelligence should be able to emerge from smaller autonomous systems without erasing their boundaries.
-
-<br>
-
 ---
 
 <div align="center">
