@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/assets/image.png" width="100%" alt="HETERARCHY" />
+<img width="100%" alt="HETERARCHY" src="https://github.com/user-attachments/assets/0c8d0ca0-210e-4e5e-aed9-779ff19a87e8" />
 
 <br>
 
