@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/assets/image.png" width="100%" alt="HETERARCHY" />
+<img src="./profile/assets/image.png" width="100%" alt="HETERARCHY" />
 
 <br>
 
